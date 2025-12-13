@@ -2,7 +2,7 @@
 #define SORTLAB_QUICKSORT_H
 #include <bits/shared_ptr_base.h>
 ///Кол-во элементов для смены сортировки
-const int THRESHOLD = 20;
+const int THRESHOLD = 24;
 
 /// Функция сравнивания
 /// @tparam T
